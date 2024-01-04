@@ -1,4 +1,4 @@
-author = 'CodeWithHarry'
+author = 'ayan3012'
 
 #Importing The Modules
 import pygame
